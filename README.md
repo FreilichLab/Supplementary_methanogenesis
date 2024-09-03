@@ -1,6 +1,6 @@
 <img src="dep_sign.png" width=120, height=120 align="left" /> 
 
-# Supplementary Materials
+# Supplementary Methanogenesis
 
 This repository contians supplementary materials from Jenny et.al 2024 (direcotry):
 
