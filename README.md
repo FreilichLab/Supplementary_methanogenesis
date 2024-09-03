@@ -1,8 +1,8 @@
-<img src="dep_sign.png" width=120, height=120 align="left" />
+<img src="dep_sign.png" width=60, height=60 align="left" /> <br><br>
 
 This repository contians supplementary materials from Jenny et.al 2024 (direcotry):
 
-- metabolic models(models_sbml)
+- metabolic models (models_sbml)
 
 - BEVis (BEvis, see BEvis.md for deatils)
 
@@ -16,7 +16,7 @@ This repository contians supplementary materials from Jenny et.al 2024 (direcotr
 [Gon Carmi](https://www.freilich-lab.com/members) \
 [Shiri Freilich](https://www.freilich-lab.com/shiri-detailes ) \
 [Raphy Zarecki](https://www.linkedin.com/in/raphy-zarecki-3412663/?originalSubdomain=il)  \
-[Jenny Yusim](https://www.freilich-lab.com/jenny-details) \
+[Jenny Yusim](https://www.freilich-lab.com/jenny-details)
 
 ## References
 
