@@ -1,4 +1,6 @@
-<img src="dep_sign.png" width=60, height=60 align="left" /> <br><br>
+<img src="dep_sign.png" width=120, height=120 align="left" /> 
+
+# Supplementary Materials
 
 This repository contians supplementary materials from Jenny et.al 2024 (direcotry):
 
