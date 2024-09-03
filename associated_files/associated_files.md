@@ -83,7 +83,7 @@ python associated_files.py
 [Gon Carmi](https://www.freilich-lab.com/members) \
 [Shiri Freilich](https://www.freilich-lab.com/shiri-detailes ) \
 [Raphy Zarecki](https://www.linkedin.com/in/raphy-zarecki-3412663/?originalSubdomain=il)  \
-[Jenny Yusim](https://www.freilich-lab.com/jenny-details) \
+[Jenny Yusim](https://www.freilich-lab.com/jenny-details)
 
 ## References
 
