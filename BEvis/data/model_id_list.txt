@@ -1,0 +1,14 @@
+Clostridium_fungisolvens.csv
+Dechloromonas_aromatica.csv
+Dielma_fastidiosa.csv
+Gudongella_oleilytica.csv
+Hydrogenophaga_aromaticivorans.csv
+Longilinea_sp.csv
+Mariniphaga_anaerophila.csv
+Mariniplasma_anaerobium.csv
+Methanobacterium_formicicum.csv
+Methanosarcina_acetivorans.csv
+Neobacillus_niacini.csv
+Petrimonas_mucosa.csv
+Pseudomonas_phenolilytica.csv
+Tepidimonas_charontis.csv

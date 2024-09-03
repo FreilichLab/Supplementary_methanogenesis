@@ -1,0 +1,18 @@
+# BEvis configuration 
+#
+## step_1: import packages and upload models.
+#==============================================
+# User input:
+#
+step1:
+    models_directory: './models_sbml' # Change to sbml models directory.
+
+# step_2: prepare data for COMETS
+#==============================================
+# User input:
+#
+step2:
+    medium_directory: './' # Change to medium file location.
+    medium_file: 'medium.csv' # Change to medium file name. All the metabolites are in models format.
+    metabolites_format: "cpd00205_e0, cpd00030_e0" # should look like compounds in the compounds list.
+    output_dir: "./results/"

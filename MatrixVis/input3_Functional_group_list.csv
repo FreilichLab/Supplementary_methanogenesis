@@ -1,0 +1,22 @@
+﻿Number,Name,Group
+1,Magnetospirillum_magneticum,BTEX_degraders
+2,Hydrogenophaga_aromaticivorans,BTEX_degraders
+3,Dechloromonas_aromatica,BTEX_degraders
+4,Geobacter_metallireducens,VFA oxidation/BTEX degradtion
+5,Thermincola_ferriacetica,VFA oxidation
+6,Clostridium_fungisolvens,VFA oxidation/fermentation
+7,Desulfomicrobium_baculatum,fermentors
+8,Dielma_fastidiosa,fermentors
+9,Longilinea_sp,fermentors
+10,Macellibacteroides_fermentans,fermentors
+11,Mariniplasma anaerobium,fermentors
+12,Gudongella oleilytica,fermentors
+13,Mesotoga_infera,fermentors
+14,Neobacillus_niacini,fermentors
+15,Mariniphaga_anaerophila,fermentors
+16,Petrimonas_mucosa,fermentors
+17,Acinetobacter_johnsonii,fermentors
+18,Pseudomonas_phenolilytica,fermentors
+19,Tepidimonas charontis,unidentified
+20,Methanobacterium_formicicum,Hydrogenothrophic_methanogen
+21,Methanosarcina_acetivorans,Acetoclastic_methanogenesis

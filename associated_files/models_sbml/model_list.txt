@@ -1,0 +1,17 @@
+Dielma_fastidiosa_AF31.xml
+Longilinea_sp.xml
+Parabacteroides_goldsteinii_strain_BFG_241.xml
+Methanobacterium_formicicum_DSM_3637.xml
+Tepidimonas_charontis.xml
+Methanosarcina_acetivorans_C2A.xml
+Thermincola_ferriacetica.xml
+Dechloromonas_aromatica_RCB.xml
+Mesotoga_infera.xml
+Hydrogenophaga_aromaticivorans_glc_nh3.xml
+Gudongella_oleilytica_strain_W6.xml
+Desulfomicrobium_baculatum_DSM_4028.xml
+Geovibrio_thiophilus_DSM_11263.xml
+Mariniplasma_anaerobium.xml
+Magnetospirillum_magneticum_AMB.xml
+Clostridium_fungisolvens_TW1.xml
+Geobacter_metallireducens_GS_15.xml
