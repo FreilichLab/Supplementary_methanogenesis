@@ -2,7 +2,7 @@
 
 # MatrixVis Bacteria Metabolite Production Simulation matrix
 
-MatrixVis is a pipeline for comparative visualization of predict growth and metabolite production of multiple microorganisms in multiple environments. 
+MatrixVis is a pipeline for comparative visualization of predicted growth and metabolite production of multiple microorganisms in multiple environments. 
 Here we provide the script together with input and output files described in Yusim, J et al. “Integrated use of electrochemical anaerobic reactors and genomic based modeling for characterizing methanogenic activity in microbial communities exposed to BTEX contamination".
 The script uses seaborn package of Python 3.0 for network visualization. 
 
