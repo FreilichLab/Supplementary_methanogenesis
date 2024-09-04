@@ -2,7 +2,7 @@
 
 # Supplementary Methanogenesis
 
-This repository contians supplementary materials from Jenny et.al 2024 (direcotry):
+This repository contians supplementary materials from Yusim et.al 2024 (direcotry):
 
 - metabolic models (models_sbml)
 
