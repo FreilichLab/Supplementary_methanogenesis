@@ -2,22 +2,11 @@
 
 # BEvis - Bacterial Exchange Visualization
 
-BEvis is Bacteria Exchanges Visualization. Here we provide a script to visualize metabolites exchange in a bacterial community as described in Yusim, J et al. 2024.
-This script utilizes results from Python-based metabolic models processing tools, Cobrapy (Ebrahim et al. 2013) with COMETS (Dukovski et al. 2021), or similar data format from another source, to generate a network visualization.
-The script uses “networkx” Python package for network visualization.
-The network is constructed using layers. These layers are associated with user-defined groups of bacteria and metabolites.
-This layered network facilitates the visualization of source compound processing via bacterial community metabolism.
-Visualization requires associating graphical features, e.g., edge thickness, and vertex size, with numerical features, such as flux, and biomass from input files.
-Therefore, user-defined parameters control the fine-tuning of graphical features.
-Modification of user-provided parameters is performed within a single configuration file, BEvis_config.yml.
-
-This script accepts input files generated from both KBASE, CARVME (BIGG format), and other tools.
-The tool-specific format must be kept throughout all the files used in the script.
-For example Compounds format, e.g., "cpd00030_e0" for KBASE or glc__D_c for CAREVME (BIGG format). It is like in the metabolic models used to generate input files for BEvis. 
-
-The provided example uses input files from the KBASE tool.
-
-Bacteria names must be consistent within input files (including file names) and BEvis_config.yml.
+BEvis is a pipeline for visualization of exchange fluxes in microbial communities. 
+Here we provide a script to visualize metabolites exchange in a bacterial community as described in Yusim, J et al. " Integrated use of electrochemical anaerobic reactors and genomic based modeling for characterizing methanogenic activity in microbial communities exposed to BTEX contamination".
+The script uses networkX package of Python 3.8.0 for network visualization. The script takes input files produced by metabolic models processing tools, e.g., Cobrapy (Ebrahim et al. 2013) and COMETS (Dukovski et al. 2021), to generate visualization of the exchange networks.
+This script makes use of files describing exchange interactions in microbial communities (in the format of “get_species_exchange_fluxes” function in COMETS). In addition, visualization requires associating graphical features, e.g., edge thickness, vertex size, with numerical features, such as flux and biomass from the input files. Modification of user provided parameters is performed within a single configuration file, BEvis_config.yml.
+Example input and output files are in the "data" and "results" directories respectively. 
 
 ## Input files
 
@@ -32,6 +21,9 @@ Exchanges of each compound in a specific cycle.
 - Metabolites amounts in time (df_metabolites.csv)
 
 ## Determine cycle (day) for visualization
+
+The user provides a specific day, e.g., 159 or 0 for automaticaly determie the
+day as described below:
 
 Cycle (day) for visualization, c\_i is calculated as a fixed number of cycles, nc, before c_max. c_i = c_max - nc.
 
