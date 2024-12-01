@@ -1,0 +1,3 @@
+The folder contains the simulation outcome of the representative species in the respective validation media. 
+Simulations were conducted as described in Yusim et al section 2.3. 
+Information on visualization is provided in the MatrixVis directory; models are available at model_sbml directory
