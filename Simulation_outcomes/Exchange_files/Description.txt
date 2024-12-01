@@ -1,0 +1,2 @@
+The folder contains the simulation outcome and heatmaps of the exchange fluxex. Simulations were conducted as described in 
+Yusim et al section 2.4. Information on visualization is provided in the BeViz directory; models are available at model_sbml directory
